@@ -84,7 +84,8 @@ about_page.png
 
 <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/e280b3a1-a89f-49d0-bbf1-4dca31eb3d8d" />
 
-```Lancer le projet
+Lancer le projet
+```
 flutter pub get
 flutter run
 ```
@@ -92,7 +93,9 @@ flutter run
 ## Auteur
 
 Nom : Ayoub Faradi
+
 Formation : Licence Développement Logiciel – Mundiapolis
+
 Technologie : Flutter
 
 
