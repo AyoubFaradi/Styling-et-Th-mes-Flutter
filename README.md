@@ -19,18 +19,17 @@ Application Flutter démontrant l’utilisation correcte des **thèmes**, **styl
 lib/
 ├── main.dart
 ├── theme/
-│ ├── app_colors.dart
-│ └── app_theme.dart
+│   ├── app_colors.dart
+│   └── app_theme.dart
 ├── pages/
-│ ├── home_page.dart
-│ ├── profile_page.dart
-│ ├── settings_page.dart
-│ └── about_page.dart
+│   ├── home_page.dart
+│   ├── profile_page.dart
+│   ├── settings_page.dart
+│   └── about_page.dart
 ├── widgets/
-│ └── app_drawer.dart
+│   └── app_drawer.dart
 assets/
 └── avatar.jpg
-
 
 ---
 
